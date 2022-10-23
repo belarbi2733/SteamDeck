@@ -1,8 +1,6 @@
 ## 💬 What is this?
 - The idea of this project is to show how we can install the Steam Deck, emulation, games, how to boost the Steam Deck.
 
-
-
 ## 👤 Author
 * Twitter: [@belarbi2733](https://twitter.com/belarbi2733)
 * Github: [@belarbi2733](https://github.com/belarbi2733)
